@@ -1,0 +1,8 @@
+# Path to read the table with groups of ICD-10 codes
+path_icd10_groups:            './icd10_groups.xlsx'
+
+# Path to save/load the trained survival models
+path_kaplan_meier_both:       './survival_models/kaplan_meier_both.pkl'
+path_kaplan_meier_males:      './survival_models/kaplan_meier_males.pkl'
+path_kaplan_meier_females:    './survival_models/kaplan_meier_females.pkl'
+path_aft:                     './survival_models/aft.pkl'
