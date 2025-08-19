@@ -8,7 +8,7 @@ The source code to implement the feature engineering step of the Can-SAVE method
 
 ## Installation
 ```bash
-git clone https://github.com/your_username/CanSave.git
+git clone https://github.com/sb-ai-lab/CanSave.git
 cd CanSave
 pip install -r requirements.txt
 ```
