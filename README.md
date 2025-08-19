@@ -1,8 +1,6 @@
 # Can-SAVE
 
-**Manuscript:** Can-SAVE: *Deploying Low-Cost and Population-Scale Cancer Screening via Survival Analysis Variables and EHR*
-
-**KDD-2026:** Applied Data Science (ADS) Track
+**Manuscript:** Can-SAVE: *Mass Cancer Risk Prediction via Survival Analysis Variables and EHR*
 
 The source code to implement the feature engineering step of the Can-SAVE method.
 
