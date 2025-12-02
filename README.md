@@ -1,6 +1,6 @@
 # Can-SAVE
 
-**Manuscript:** Can-SAVE: *Mass Cancer Risk Prediction via Survival Analysis Variables and EHR*
+**Manuscript:** Can-SAVE: Deploying Low-Cost and Population-Scale Cancer Screening via Survival Analysis Variables and EHR
 
 The source code to implement the feature engineering step of the Can-SAVE method.
 
