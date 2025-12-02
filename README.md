@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2309.15039-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2309.15039)
 [![KDD 2026](https://img.shields.io/badge/KDD%202026-Accepted-2ea44f?logo=acm)](https://kdd2026.kdd.org/)
-[![Python 3.10](https://img.shields.io/badge/python-3.10+-blue.svg?logo=python)](https://www.python.org/downloads/)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg?logo=python)](https://www.python.org/downloads/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 The source code to implement the feature engineering step of the Can-SAVE method.
