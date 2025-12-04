@@ -93,3 +93,20 @@ if __name__ == '__main__':
     )
 
 ```
+
+## Citation
+
+If you find the work useful, please cite our work:
+
+```bibtex
+@misc{philonenko2025,
+      title={Can-SAVE: Deploying Low-Cost and Population-Scale Cancer 
+      Screening via Survival Analysis Variables and EHR}, 
+      author={Petr Philonenko and Vladimir Kokh and Pavel Blinov},
+      year={2025},
+      eprint={2309.15039},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2309.15039}, 
+}
+```
